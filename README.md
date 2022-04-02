@@ -2,7 +2,6 @@
 ### Meu nome é Gustavo Duarte e Silva
 
 - :mortar_board: Bacharel em Engenharia de Controle e Automação (IFMT)
-- 🛠️ Estudando para ser Ciêntista de Dados (Escola Mentorama)
 - :computer: Trainee Na **BlueShift** de Engenheiro de Dados
 
 
