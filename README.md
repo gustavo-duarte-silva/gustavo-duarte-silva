@@ -16,7 +16,7 @@
 <img aligh="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img aligh="center" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img aligh="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-<img aligh="center" src="https://www.logo.wine/a/logo/Snowflake_Inc./Snowflake_Inc.-Logo.wine.svg" width="150" height="30" />
+<img aligh="center" src="https://camo.githubusercontent.com/98f0c72d8d073522308f1fac19e44f81fa57dfdfc73cb7c91666a6823039bf08/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536e6f77666c616b652d3335616564643f7374796c653d666f722d7468652d6261646765266c6f676f3d736e6f77666c616b65266c6f676f436f6c6f723d626c7565" />
 <img aligh="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img aligh="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img aligh="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
