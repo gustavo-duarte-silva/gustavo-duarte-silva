@@ -2,12 +2,10 @@
 ### Meu nome é Gustavo Duarte e Silva
 
 - :mortar_board: Bacharel em Engenharia de Controle e Automação (IFMT)
-- :computer: Trainee Na **BlueShift** de Engenheiro de Dados
-
+- :computer: Engenheiro de Dados Junior na **BlueShift**
 
 ## Contatos 📫
 
-[![KAGGLE](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/gustavoduarteesilva)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-duarte-b6b27a126/)
 
 ## My Tools 🛠️
@@ -33,4 +31,9 @@
 <img aligh="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 
-
+## Certificações 💎
+<div style='display' :inline_block"> <br>
+  <img aligh="center" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width=200 height=200 />
+  <img aligh="center" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width=200 height=200 />
+  <img aligh="center" src="https://attachments.office.net/owa/gustavo.duarte%40blueshift.com.br/service.svc/s/GetAttachmentThumbnail?id=AAMkADBhMWZkMzllLTIxMDItNDkwMC1iNjgwLTUyYmE2OTg5OGQyNQBGAAAAAADUAvfhLZr5QLjVObJShP3SBwBywK8o6ldbSb5xuxx1cp%2F4AAAAAAEJAABywK8o6ldbSb5xuxx1cp%2F4AAEyGGgdAAABEgAQAF%2FDIs3%2BfrpJhVN1LLBhUHY%3D&thumbnailType=2&token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjczRkI5QkJFRjYzNjc4RDRGN0U4NEI0NDBCQUJCMTJBMzM5RDlGOTgiLCJ0eXAiOiJKV1QiLCJ4NXQiOiJjX3VidnZZMmVOVDM2RXRFQzZ1eEtqT2RuNWcifQ.eyJvcmlnaW4iOiJodHRwczovL291dGxvb2sub2ZmaWNlLmNvbSIsInVjIjoiNTJlZTkwMzhiMjhjNDhhMGI3NDc5MGY1ZWMyZmQ0MzgiLCJzaWduaW5fc3RhdGUiOiJbXCJrbXNpXCJdIiwidmVyIjoiRXhjaGFuZ2UuQ2FsbGJhY2suVjEiLCJhcHBjdHhzZW5kZXIiOiJPd2FEb3dubG9hZEBiNDkyMGM4Mi03NTgxLTQ5MWEtOWRhYi1jZDJhZGUyZjNlYmQiLCJpc3NyaW5nIjoiV1ciLCJhcHBjdHgiOiJ7XCJtc2V4Y2hwcm90XCI6XCJvd2FcIixcInB1aWRcIjpcIjExNTM4MDExMjE3Njg0Mjg0NDNcIixcInNjb3BlXCI6XCJPd2FEb3dubG9hZFwiLFwib2lkXCI6XCJiZTg1ZDhjOC1mMTRmLTQwNmQtYWU4MS0wZDU2ZjBiMzhlNGVcIixcInByaW1hcnlzaWRcIjpcIlMtMS01LTIxLTgxMzU0MjQ4My0yMDU2NzE5NzM1LTI4NjIyMzA3NDEtMjE4MDYzODlcIn0iLCJuYmYiOjE2ODM2MzY5MzQsImV4cCI6MTY4MzYzNzUzNCwiaXNzIjoiMDAwMDAwMDItMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwQGI0OTIwYzgyLTc1ODEtNDkxYS05ZGFiLWNkMmFkZTJmM2ViZCIsImF1ZCI6IjAwMDAwMDAyLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9hdHRhY2htZW50cy5vZmZpY2UubmV0QGI0OTIwYzgyLTc1ODEtNDkxYS05ZGFiLWNkMmFkZTJmM2ViZCIsImhhcHAiOiJvd2EifQ.r2RX6JeiMoTpZw7q9D1mitbclCAurIU4BSnyS6xJZC_SqTKGRtf2TzjqOsVGWTeAbwPPCKKFAlzVToO3Fpz5bD02kwfOITqCs9VOsNJdvQk3QQrTH2kQdyWfYQc-mdxPsCdmzBMHv-VdkYNoS87jzN4FfzLk4BpSA-OvQQQYmAMP80kuZbgTZ4VRDzwaWPOH9UE7vwk4FGbyLjYrswkCcXY1DosdDD_-aAiF8H5TRcEu0NfOyvf3dPka1ztzr3EVtgcekKpNARMKtQWQp3Y7f5PMDOrZCd5PDFIj_z0HLTEcc6u9Stk0EMDr8K9bnMxQCG8mwAbcxPURqACTnmhIvw&X-OWA-CANARY=UbYx3EWgeUubd53s57BlMBC8DrSMUNsYF6Wq-F9Eh2Xesb4ExkaJxKfC0CXS28VwhGnwV9tZIvY.&owa=outlook.office.com&scriptVer=20230428009.14&animation=true" width=200 height=200 />
+</div>
