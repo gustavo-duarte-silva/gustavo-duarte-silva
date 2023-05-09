@@ -4,7 +4,7 @@
 - :mortar_board: Bacharel em Engenharia de Controle e Automação (IFMT)
 - :computer: Engenheiro de Dados Junior na **BlueShift**
 
-## Contatos 📫
+## Contato 📫
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-duarte-b6b27a126/)
 
