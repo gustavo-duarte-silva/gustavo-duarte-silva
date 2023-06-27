@@ -46,15 +46,9 @@
   <img aligh="center" src="https://images.credly.com/size/340x340/images/97fcc871-a820-4143-adf2-62517026cb58/Essentials-Data-Warehouse_2x.png" width=150 height=150 />
   <img aligh="center" src="https://images.credly.com/size/340x340/images/50dd7645-1e56-4e53-a1e0-b17dc7cca3c1/image.png" width=150 height=150 />
   <img aligh="center" src="https://images.credly.com/size/340x340/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" width=150 height=150 />
-  <img aligh="center" src="" width=150 height=150 />
-  <img aligh="center" src="" width=150 height=150 />
-  <img aligh="center" src="" width=100 height=100 />
-  <img aligh="center" src="" width=100 height=100 />
-  <img aligh="center" src="" width=100 height=100 />
-  <img aligh="center" src="" width=100 height=100 />
-  <img aligh="center" src="" width=100 height=100 />
-  <img aligh="center" src="" width=100 height=100 />
-  <img aligh="center" src="" width=100 height=100 />
-  <img aligh="center" src="" width=100 height=100 />
-  <img aligh="center" src="" width=100 height=100 />
+  <img aligh="center" src="https://images.credly.com/size/340x340/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png" width=150 height=150 />
+  <img aligh="center" src="https://images.credly.com/size/340x340/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" width=150 height=150 />
+  <img aligh="center" src="https://images.credly.com/size/340x340/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" width=150 height=150 />  <br>
+  <img aligh="center" src="https://images.credential.net/badge/tiny/unsv28nz_1687880851906_badge.png" width=150 height=150 />
+  <img aligh="center" src="https://www.databricks.com/en-website-assets/static/241d6eaf7219fb39f79806e4af803a50/fundamentals-badge-lakehouse.svg" width=150 height=150 />
 </div>
