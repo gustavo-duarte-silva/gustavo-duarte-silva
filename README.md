@@ -9,7 +9,6 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-duarte-b6b27a126/)
 
 ## My Tools 🛠️
-
 <div style='display' :inline_block"> <br>
 <img aligh="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img aligh="center" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
@@ -36,4 +35,26 @@
   <img aligh="center" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width=200 height=200 />
   <img aligh="center" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width=200 height=200 />
   <img aligh="center" src="https://uploaddeimagens.com.br/images/004/458/838/original/thumbnail_Denodo-Platform-8.0-Certified-Architect-Associate.png?1683653895" width=200 height=200 />
+</div>
+
+## Badges 🏆
+<div style='display' :inline_block"> <br>
+  <img aligh="center" src="https://images.credly.com/size/340x340/images/6c64a73e-e66b-40e9-bf4e-de8e21ca04be/image.png" width=150 height=150 />
+  <img aligh="center" src="https://images.credly.com/size/340x340/images/932e3102-58f6-474a-952d-a144b74c98d2/Essentials-Data-Applications_2x.png" width=150 height=150 />
+  <img aligh="center" src="https://images.credly.com/size/340x340/images/9904ec90-122c-43cd-8b66-5a7e6c920862/image.png" width=150 height=150 />
+  <img aligh="center" src="https://images.credly.com/size/340x340/images/1392296a-cadf-4037-b7ac-f01fef0fe31c/Essentials-Data-Sharing_2x.png" width=150 height=150 />
+  <img aligh="center" src="https://images.credly.com/size/340x340/images/97fcc871-a820-4143-adf2-62517026cb58/Essentials-Data-Warehouse_2x.png" width=150 height=150 />
+  <img aligh="center" src="https://images.credly.com/size/340x340/images/50dd7645-1e56-4e53-a1e0-b17dc7cca3c1/image.png" width=150 height=150 />
+  <img aligh="center" src="https://images.credly.com/size/340x340/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" width=150 height=150 />
+  <img aligh="center" src="" width=150 height=150 />
+  <img aligh="center" src="" width=150 height=150 />
+  <img aligh="center" src="" width=100 height=100 />
+  <img aligh="center" src="" width=100 height=100 />
+  <img aligh="center" src="" width=100 height=100 />
+  <img aligh="center" src="" width=100 height=100 />
+  <img aligh="center" src="" width=100 height=100 />
+  <img aligh="center" src="" width=100 height=100 />
+  <img aligh="center" src="" width=100 height=100 />
+  <img aligh="center" src="" width=100 height=100 />
+  <img aligh="center" src="" width=100 height=100 />
 </div>
