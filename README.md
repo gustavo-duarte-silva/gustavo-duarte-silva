@@ -30,14 +30,18 @@
 <img aligh="center" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
 </div>
 
-## Certificações 💎
+## Certificações Microsoft 🏆
 <div style='display' :inline_block"> <br>
   <img aligh="center" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width=200 height=200 />
   <img aligh="center" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width=200 height=200 />
+</div>
+
+## Certificações Denodo 🏆
+<div style='display' :inline_block"> <br>
   <img aligh="center" src="https://uploaddeimagens.com.br/images/004/458/838/original/thumbnail_Denodo-Platform-8.0-Certified-Architect-Associate.png?1683653895" width=200 height=200 />
 </div>
 
-## Badges 🏆
+## Badges 🎖️
 <div style='display' :inline_block"> <br>
   <img aligh="center" src="https://images.credly.com/size/340x340/images/6c64a73e-e66b-40e9-bf4e-de8e21ca04be/image.png" width=150 height=150 />
   <img aligh="center" src="https://images.credly.com/size/340x340/images/932e3102-58f6-474a-952d-a144b74c98d2/Essentials-Data-Applications_2x.png" width=150 height=150 />
