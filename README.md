@@ -30,15 +30,11 @@
 <img aligh="center" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
 </div>
 
-## Certificações Microsoft 🏆
+## Certificações 🏆
 <div style='display' :inline_block"> <br>
   <img aligh="center" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width=200 height=200 />
   <img aligh="center" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width=200 height=200 />
-</div>
-
-## Certificações Denodo 🏆
-<div style='display' :inline_block"> <br>
-  <img aligh="center" src="https://uploaddeimagens.com.br/images/004/458/838/original/thumbnail_Denodo-Platform-8.0-Certified-Architect-Associate.png?1683653895" width=200 height=200 />
+   <img aligh="center" src="https://uploaddeimagens.com.br/images/004/458/838/original/thumbnail_Denodo-Platform-8.0-Certified-Architect-Associate.png?1683653895" width=200 height=200 />
 </div>
 
 ## Badges 🎖️
@@ -55,4 +51,5 @@
   <img aligh="center" src="https://images.credly.com/size/340x340/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" width=150 height=150 />  <br>
   <img aligh="center" src="https://images.credential.net/badge/tiny/unsv28nz_1687880851906_badge.png" width=150 height=150 />
   <img aligh="center" src="https://www.databricks.com/en-website-assets/static/241d6eaf7219fb39f79806e4af803a50/fundamentals-badge-lakehouse.svg" width=150 height=150 />
+  <img aligh="center" src="https://www.databricks.com/sites/default/files/2023-06/fundamentals-badge-generative-lp.png" width=220 height=150 />
 </div>
