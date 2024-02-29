@@ -2,7 +2,7 @@
 ### Meu nome é Gustavo Duarte e Silva
 
 - :mortar_board: Bacharel em Engenharia de Controle e Automação (IFMT)
-- :computer: Engenheiro de Dados Junior na **BlueShift**
+- :computer: Engenheiro de Dados / Desenvolvedor Python / Prompt Engineer na **BlueShift**
 
 ## Contato 📫
 
