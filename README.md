@@ -2,18 +2,23 @@
 ### Meu nome é Gustavo Duarte e Silva
 
 - :mortar_board: Bacharel em Engenharia de Controle e Automação (IFMT)
-- :computer: Engenheiro de Dados / Desenvolvedor Python / Prompt Engineer na **BlueShift**
+- :computer: Prompt Engineer/ Engenheiro de Dados & Especialista em Fivetran na **BlueShift**
 
 ## Contato 📫
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-duarte-b6b27a126/)
 
-## My Tools 🛠️
-<div style='display' :inline_block"> <br>
+## Linguagens de Programação 🧠
+<div style='display' :inline_block"> 
 <img aligh="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img aligh="center" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+</div>
+
+## My Tools 🛠️
+<div style='display' :inline_block">
 <img aligh="center" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img aligh="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-<img aligh="center" src="https://camo.githubusercontent.com/98f0c72d8d073522308f1fac19e44f81fa57dfdfc73cb7c91666a6823039bf08/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536e6f77666c616b652d3335616564643f7374796c653d666f722d7468652d6261646765266c6f676f3d736e6f77666c616b65266c6f676f436f6c6f723d626c7565" />
+<img aligh="center" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)" />
 <img aligh="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img aligh="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img aligh="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -28,10 +33,14 @@
 <img aligh="center" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
 <img aligh="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 <img aligh="center" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+<img aligh="center" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+<img aligh="center" src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" />
+
 </div>
 
 ## Certificações 🏆
 <div style='display' :inline_block"> <br>
+  <img aligh="center" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"  width=200 height=200 />
   <img aligh="center" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width=200 height=200 />
   <img aligh="center" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width=200 height=200 />
    <img aligh="center" src="https://uploaddeimagens.com.br/images/004/458/838/original/thumbnail_Denodo-Platform-8.0-Certified-Architect-Associate.png?1683653895" width=200 height=200 />
