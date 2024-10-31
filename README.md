@@ -2,7 +2,8 @@
 ### Meu nome é Gustavo Duarte e Silva
 
 - :mortar_board: Bacharel em Engenharia de Controle e Automação (IFMT)
-- :computer: Prompt Engineer/ Engenheiro de Dados & Especialista em Fivetran na **BlueShift**
+- :computer: Engenheiro de IA/Prompt Engineer
+- :computer: Engenheiro de Dados Pleno & Especialista em Fivetran na **BlueShift**
 
 ## Contato 📫
 
