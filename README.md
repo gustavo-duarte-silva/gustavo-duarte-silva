@@ -54,7 +54,6 @@
   <img align="center" src="https://images.credly.com/size/340x340/images/97fcc871-a820-4143-adf2-62517026cb58/Essentials-Data-Warehouse_2x.png" width=150 height=150 />
   <img align="center" src="https://images.credly.com/size/340x340/images/50dd7645-1e56-4e53-a1e0-b17dc7cca3c1/image.png" width=150 height=150 />
   <img align="center" src="https://images.credential.net/badge/tiny/unsv28nz_1687880851906_badge.png" width=150 height=150 />
-  <img align="center" src="https://www.databricks.com/en-website-assets/static/241d6eaf7219fb39f79806e4af803a50/fundamentals-badge-lakehouse.svg" width=150 height=150 />
   <img align="center" src="https://www.databricks.com/sites/default/files/2023-06/fundamentals-badge-generative-lp.png" width=220 height=150 />
 </div>
 
