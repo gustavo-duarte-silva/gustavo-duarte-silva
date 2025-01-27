@@ -35,6 +35,8 @@
   <img align="center" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img align="center" src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" />
+  <img align="center" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </div>
 
 ## 🏆 Certificações & Badges 🎖️
