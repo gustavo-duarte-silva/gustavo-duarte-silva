@@ -44,7 +44,7 @@
   <img align="center" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"  width=200 height=200 />
   <img align="center" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width=200 height=200 />
   <img align="center" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width=200 height=200 />
-  <img align="center" src="https://uploaddeimagens.com.br/images/004/458/838/original/thumbnail_Denodo-Platform-8.0-Certified-Architect-Associate.png?1683653895" width=200 height=200 />
+  <img align="center" src="https://certification.denodo.com/img/denodo_80_certified_architect_associate_badge.png" width=200 height=200 />
   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBZtTzB4Q2yK_k-qy-kCKdIwSCAWwt9UDkA&s" width=200 height=200 />
 </div>
 
