@@ -48,7 +48,9 @@
   <img align="center" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width=200 height=200 />
 </div>
 <div align="center"> <br>
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBZtTzB4Q2yK_k-qy-kCKdIwSCAWwt9UDkA&s" width=200 height=200 />
+<img align="center" src="https://i.postimg.cc/3wWFgpmJ/Fivetran-Hybrid.png" width=230 height=230 />
+<img align="center" src="https://i.postimg.cc/Hs4zHTTH/fivetran-hvr.png" width=220 height=220 />
+<img align="center" src="https://i.postimg.cc/zGxkbpLc/fivetran-partner.png" width=210 height=210 />
 </div>
 
 ## Badges 🎖️
