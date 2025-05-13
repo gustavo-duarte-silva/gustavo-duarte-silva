@@ -38,28 +38,19 @@
 
 ## Certificações 🏆
 <div align="center"> <br>
-  <img align="center" src="https://certification.denodo.com/img/denodo_9_certified_developer_associate_AISDK_badge.png" width=100 height=100 />
-  <img align="center" src="https://certification.denodo.com/img/denodo_9_certified_architect_associate_badge.png" width=100 height=100 />
-  <img align="center" src="https://certification.denodo.com/img/denodo_80_certified_architect_associate_badge.png" width=95 height=95 />
-  <img align="center" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"  width=100 height=100 />
-  <img align="center" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width=100 height=100 />
-  <img align="center" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width=100 height=100 />
+  <img align="center" src="https://certification.denodo.com/img/denodo_9_certified_developer_associate_AISDK_badge.png" width=200 height=200 />
+  <img align="center" src="https://certification.denodo.com/img/denodo_9_certified_architect_associate_badge.png" width=200 height=200 />
+  <img align="center" src="https://certification.denodo.com/img/denodo_80_certified_architect_associate_badge.png" width=195 height=195 />
 </div>
 <div align="center"> <br>
-<img align="center" src="https://i.postimg.cc/3wWFgpmJ/Fivetran-Hybrid.png" width=105 height=105/>
-<img align="center" src="https://i.postimg.cc/Hs4zHTTH/fivetran-hvr.png" width=100 height=100 />
-<img align="center" src="https://i.postimg.cc/zGxkbpLc/fivetran-partner.png" width=95 height=95 />
+  <img align="center" src="https://i.postimg.cc/3wWFgpmJ/Fivetran-Hybrid.png" width=205 height=205/>
+  <img align="center" src="https://i.postimg.cc/Hs4zHTTH/fivetran-hvr.png" width=200 height=200 />
+  <img align="center" src="https://i.postimg.cc/zGxkbpLc/fivetran-partner.png" width=195 height=195 />
+</div>
+<div align="center"> <br>
+  <img align="center" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"  width=200 height=200 />
+  <img align="center" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width=200 height=200 />
+  <img align="center" src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width=200 height=200 />
 </div>
 
-## Badges 🎖️
-<div align="center"> <br>
-  <img align="center" src="https://images.credly.com/size/340x340/images/6c64a73e-e66b-40e9-bf4e-de8e21ca04be/image.png" width=150 height=150 />
-  <img align="center" src="https://images.credly.com/size/340x340/images/932e3102-58f6-474a-952d-a144b74c98d2/Essentials-Data-Applications_2x.png" width=150 height=150 />
-  <img align="center" src="https://images.credly.com/size/340x340/images/9904ec90-122c-43cd-8b66-5a7e6c920862/image.png" width=150 height=150 />
-  <img align="center" src="https://images.credly.com/size/340x340/images/1392296a-cadf-4037-b7ac-f01fef0fe31c/Essentials-Data-Sharing_2x.png" width=150 height=150 />
-  <img align="center" src="https://images.credly.com/size/340x340/images/97fcc871-a820-4143-adf2-62517026cb58/Essentials-Data-Warehouse_2x.png" width=150 height=150 />
-  <img align="center" src="https://images.credly.com/size/340x340/images/50dd7645-1e56-4e53-a1e0-b17dc7cca3c1/image.png" width=150 height=150 />
-  <img align="center" src="https://images.credential.net/badge/tiny/unsv28nz_1687880851906_badge.png" width=150 height=150 />
-  <img align="center" src="https://www.databricks.com/sites/default/files/2023-06/fundamentals-badge-generative-lp.png" width=220 height=150 />
-</div>
 
