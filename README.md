@@ -38,6 +38,7 @@
 
 ## Certificações 🏆
 <div align="center"> <br>
+  <img align="center" src="https://certification.denodo.com/img/denodo_9_certified_developer_associate_badge.png" width=200 height=200 />
   <img align="center" src="https://certification.denodo.com/img/denodo_9_certified_developer_associate_AISDK_badge.png" width=200 height=200 />
   <img align="center" src="https://certification.denodo.com/img/denodo_9_certified_architect_associate_badge.png" width=200 height=200 />
   <img align="center" src="https://certification.denodo.com/img/denodo_80_certified_architect_associate_badge.png" width=195 height=195 />
