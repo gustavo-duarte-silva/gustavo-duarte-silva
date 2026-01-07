@@ -47,6 +47,7 @@
   <img align="center" src="https://i.postimg.cc/3wWFgpmJ/Fivetran-Hybrid.png" width=205 height=205/>
   <img align="center" src="https://i.postimg.cc/Hs4zHTTH/fivetran-hvr.png" width=200 height=200 />
   <img align="center" src="https://i.postimg.cc/zGxkbpLc/fivetran-partner.png" width=195 height=195 />
+  <img align="center" src="https://learnerresources.s3.eu-west-1.amazonaws.com/119550/learner_resource_uploads/3328894cc12a2310e95bdd04da/TransCertPartnerBadge.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQZVLRHER6MLZQEAI%2F20260107%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20260107T230306Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=f5600673d5771b0dde56562d87d87328831ae33fd226f4b5f4d3b9a0403c677e" width=195 height=195>
 </div>
 <div align="center"> <br>
   <img align="center" src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"  width=200 height=200 />
