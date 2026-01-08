@@ -3,7 +3,9 @@
 
 - :mortar_board: Bacharel em Engenharia de Controle e Automação (IFMT)
 - :computer: Engenheiro de IA/Prompt Engineer
-- :computer: Engenheiro de Dados Pleno & Especialista em Fivetran na **BlueShift**
+- :computer: Engenheiro de Dados Pleno **BlueShift**
+- :computer: Especialista em Fivetran
+- :computer: Especialista Denodo
 
 ## Contato 📫
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-duarte-b6b27a126/)
