@@ -2,10 +2,8 @@
 ### Meu nome é Gustavo Duarte e Silva
 
 - :mortar_board: Bacharel em Engenharia de Controle e Automação (IFMT)
-- :computer: Engenheiro de IA/Prompt Engineer
-- :computer: Engenheiro de Dados Pleno **BlueShift**
-- :computer: Especialista em Fivetran
-- :computer: Especialista Denodo
+
+Data & Analytics Engineer | 5x Fivetran | 4x Denodo | 3x Azure | dbt | Google Cloud | Dataform | Python | SQL | Golang | C | Git | DataOps | SAP BDC | CS50x
 
 ## Contato 📫
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-duarte-b6b27a126/)
