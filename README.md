@@ -1,5 +1,5 @@
 ## Gustavo Duarte e Silva
-> Data & Analytics Engineer | 5x Fivetran | 4x Denodo | 3x Azure | dbt | Google Cloud | Dataform | Python | SQL | Golang | C | Git | DataOps | CS50x
+> Data & Analytics Engineer | 5x Fivetran | 4x Denodo | 3x Azure | 1x Oracle | dbt | Google Cloud | Dataform | Python | SQL | Golang | C | Git | DataOps | CS50x
 
 ## Formação :mortar_board: 
 Bacharel em Engenharia de Controle e Automação (IFMT) 
